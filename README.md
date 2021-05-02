@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Koffer0-0
+- 👋 Hi, I’m Temirlan Akishev
 - 👀 I’m interested in games, developing, music
 - 🌱 I’m currently learning web technologies and prog.langs.
 - 💞️ I’m looking to collaborate on ...
