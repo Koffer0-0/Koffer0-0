@@ -1,7 +1,7 @@
 🎓 **Educational Background:**
 
 B.S. in Software Engineering
-Current Student: Computer Science and Engineering Major
+M.S. in Computer Science and Engineering
 
 🌱 **About Me:**
 From my first course in Software Engineering, I was drawn to the world of development. Over the years, I've acquired a vast array of skills and experiences. I'm currently working on a UI Vue library, among other ventures.
